@@ -1,0 +1,6 @@
+[submodule "stepper-firmware"]
+	path = stepper-firmware
+	url = https://github.com/jgrage/stepper-firmware.git
+[submodule "stepper-board"]
+	path = stepper-board
+	url = https://github.com/jgrage/stepper-board.git
